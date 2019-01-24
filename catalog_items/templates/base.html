@@ -1,0 +1,43 @@
+{% extends "bootstrap/base.html" %}
+
+{% block title %}{% endblock %}
+{% block head %}
+
+  <!--Bootstrap-->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
+
+    <!--animate.css-->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/animate.css') }}">
+
+  <!--Google Fonts-->
+  <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Lora:400,400i,700" rel="stylesheet">
+  <!--Styles-->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+
+  <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+  <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+
+{% endblock %}
+
+{% block content %}
+
+    {% include "nav.html" %}
+    {% include "flash.html" %}
+
+    <div class="border-site bs-top"></div>
+    <div class="border-site bs-right"></div>
+    <div class="border-site bs-left"></div>
+    <div class="border-site bs-bottom"></div>
+
+    {% block page_content %}
+    {% endblock %}
+
+    <!--bootstrap.js-->
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <!--retina.js-->
+    <script src="{{ url_for('static', filename='js/retina.min.js') }}"></script>
+{% endblock %}

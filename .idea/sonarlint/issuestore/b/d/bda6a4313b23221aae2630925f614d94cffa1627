@@ -1,0 +1,20 @@
+
+python:S117d"aRename this local variable "categoryToDelete" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãñ“Õ8ü©èÅ‚-
+ppython:S1542"QRename function "editItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œ—¡8ü©èÅ‚-
+python:S117µ"]Rename this local variable "itemToDelete" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢îô­üÿÿÿÿ8ü©èÅ‚-
+Mpython:S1481–"(Remove the unused local variable "user".(‹–ç®ıÿÿÿÿ8ü©èÅ‚-
+Lpython:S1481h"(Remove the unused local variable "user".(‹–ç®ıÿÿÿÿ8ü©èÅ‚-
+Mpython:S1481»"(Remove the unused local variable "user".(‹–ç®ıÿÿÿÿ8ü©èÅ‚-
+xpython:S1542"TRename function "showCatalog" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ò¥ÿûÿÿÿÿ8ü©èÅ‚-
+ypython:S1542"URename function "showCategory" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Í¹µ¥üÿÿÿÿ8ü©èÅ‚-
+spython:S15427"TRename function "addCategory" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(±¦ƒÜ8ü©èÅ‚-
+ypython:S1542G"URename function "editCategory" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜Å¡×úÿÿÿÿ8ü©èÅ‚-
+ppython:S1542+"QRename function "showItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Í¹ïŒ8ü©èÅ‚-
+}python:S117I"_Rename this local variable "editedCategory" to match the regular expression ^[_a-z][a-z0-9_]*$.(Òâ‹‹8ü©èÅ‚-
+=python:S125·"Remove this commented out code.(ôµ‹[8İ¤â‚-
+{python:S1542c"WRename function "deleteCategory" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø‡ÆÛùÿÿÿÿ8ü©èÅ‚-
+Lpython:S1481N"(Remove the unused local variable "user".(‹–ç®ıÿÿÿÿ8Şµñá‚-
+zpython:S117‘"[Rename this local variable "editedItem" to match the regular expression ^[_a-z][a-z0-9_]*$.(—Ëÿ°8ü©èÅ‚-
+Cpython:S125¤"Remove this commented out code.(©ÅÙÛøÿÿÿÿ8çÏ‰â‚-
+tpython:S1542z"PRename function "addItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(øÙ…½şÿÿÿÿ8ü©èÅ‚-
+xpython:S1542´"SRename function "deleteItem" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(êÔêõúÿÿÿÿ8ü©èÅ‚-

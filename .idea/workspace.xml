@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7b02a8c-7261-404c-81bd-3c15c7027817" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1676804756">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="crt" value="1" />
+          <entry key="css" value="4" />
+          <entry key="flask" value="1" />
+          <entry key="html" value="148" />
+          <entry key="ico" value="3" />
+          <entry key="js" value="6" />
+          <entry key="json" value="5" />
+          <entry key="key" value="1" />
+          <entry key="md" value="3" />
+          <entry key="png" value="12" />
+          <entry key="py" value="111" />
+          <entry key="sh" value="1" />
+          <entry key="txt" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="1" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="148" />
+          <entry key="Hoi4 file" value="7" />
+          <entry key="Image" value="15" />
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="112" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="18" />
+          <entry key="dummy" value="13" />
+          <entry key="html" value="2043" />
+          <entry key="md" value="387" />
+          <entry key="py" value="2747" />
+          <entry key="sh" value="101" />
+          <entry key="txt" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="101" />
+          <entry key="CSS" value="18" />
+          <entry key="HTML" value="2043" />
+          <entry key="Hoi4 file" value="19" />
+          <entry key="Markdown" value="387" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="2747" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/auth/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/dao/item_dao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+                <marker date="1547218102425" expanded="true" signature="95:127" ph="..." />
+                <marker date="1547218102425" expanded="true" signature="158:159" ph="..." />
+                <marker date="1547218102425" expanded="true" signature="256:257" ph="..." />
+                <marker date="1547218102425" expanded="true" signature="624:701" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/auth/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/templates/items.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="23" column="80" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/dao/user_dao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/templates/additem.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/templates/json_view.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog_items/main_app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="224" column="27" selection-start-line="224" selection-start-column="27" selection-end-line="224" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>picture</find>
+      <find>items</find>
+      <find>json.d</find>
+      <find>all_items_json</find>
+      <find>{% for</find>
+      <find>url_for('</find>
+      <find>category_items_json</find>
+      <find>addCategory</find>
+      <find>current_user.i</find>
+      <find>current_user.is_authenticated</find>
+      <find>SQLALCHEMY_TRACK_MODIFICATIONS</find>
+      <find>img</find>
+      <find>'static'</find>
+      <find>request.metho</find>
+      <find>form</find>
+      <find>form action</find>
+      <find>category cann</find>
+      <find>additem</find>
+      <find>addItem</find>
+      <find>Category name cannot be empty</find>
+      <find>import json</find>
+      <find>c</find>
+      <find>catalog_items.auth</find>
+      <find>catalog_items.auth.views</find>
+      <find>final</find>
+      <find>inden</find>
+      <find>request.form</find>
+      <find>request.form[</find>
+      <find>re.</find>
+      <find>data-toggle</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'main_app.showCatalog'</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/catalog_items/templates</dir>
+      <dir>$PROJECT_DIR$/catalog_items</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/catalog_items/main_app/__init__.py" />
+        <option value="$PROJECT_DIR$/catalog_items/auth.py" />
+        <option value="$PROJECT_DIR$/catalog_items/app.py" />
+        <option value="$PROJECT_DIR$/catalog_items/database_setup.py" />
+        <option value="$PROJECT_DIR$/catalog_items/client_secrets.json" />
+        <option value="$PROJECT_DIR$/catalog_items/routes.py" />
+        <option value="$PROJECT_DIR$/client_secrets.json" />
+        <option value="$PROJECT_DIR$/catalog_items/models/user.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/base_old.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/categories.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/public_itemdetail.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/public_items.html" />
+        <option value="$PROJECT_DIR$/catalog_items/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/catalog_items/main_app/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/catalog_items/main_app/static/css/animate.css" />
+        <option value="$PROJECT_DIR$/catalog_items/__init__.py" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/500.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/404.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/login.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/deletecategory.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/deleteitem.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/editcategory.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/itemdetail.html" />
+        <option value="$PROJECT_DIR$/catalog_items/models/item.py" />
+        <option value="$PROJECT_DIR$/catalog_items/models/category.py" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/edititem.html" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/setup.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/catalog_items/dao/category_dao.py" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/base.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/json_view.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/nav.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/catalog.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/items.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/addcategory.html" />
+        <option value="$PROJECT_DIR$/catalog_items/templates/additem.html" />
+        <option value="$PROJECT_DIR$/catalog_items/auth/views.py" />
+        <option value="$PROJECT_DIR$/catalog_items/dao/item_dao.py" />
+        <option value="$PROJECT_DIR$/catalog_items/dao/user_dao.py" />
+        <option value="$PROJECT_DIR$/catalog_items/main_app/views.py" />
+        <option value="$PROJECT_DIR$/catalog_items/auth/__init__.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="catalog_items" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catalog_items" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="catalog_items" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="auth&#9;null&#9;null&#10;json&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/json_view.html&#10;addite&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/additem.html&#10;addcat&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/addcategory.html&#10;add&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/additem.html&#10;items&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/items.html&#10;catal&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/catalog.html&#10;base&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/base.html&#10;login&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/login.html&#10;inde&#9;null&#9;null&#10;nav&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/nav.html&#10;bas&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/base.html&#10;auth/vi&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/auth/views.py&#10;req&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/requirements.txt&#10;init&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/__init__.py&#10;config&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/config.py&#10;na&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/nav.html&#10;addc&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/addcategory.html&#10;view&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/main_app/views.py&#10;read&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/README.md&#10;item.p&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/models/item.py&#10;run&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/run.py&#10;edit&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/edititem.html&#10;addit&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/additem.html&#10;ca&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/models/category.py&#10;item&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/items.html&#10;categor&#9;null&#9;null&#10;user&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/models/user.py&#10;cat&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/catalog.html&#10;logi&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/login.html&#10;404&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/404.html&#10;50&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/500.html&#10;lo&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/login.html&#10;ini&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/__init__.py&#10;itemde&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/itemdetail.html&#10;user.&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/models/user.py&#10;categorie&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/categories.html&#10;catalo&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/catalog.html&#10;item.py&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/models/item.py&#10;flash.&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/flash.html&#10;userd&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/dao/user_dao.py&#10;scope&#9;null&#9;null&#10;auth/vie&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/auth/views.py&#10;login.&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/templates/login.html&#10;.png&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/main_app/static/img/bright-squares.png&#10;cli&#9;FILE&#9;file:///Users/vinaygupta/PycharmProjects/upwork/catalog_items/catalog_items/client_secrets.json" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/catalog_items/static/img" />
+      <recent name="$PROJECT_DIR$/catalog_items/static" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/catalog_items/main_app/static/img" />
+      <recent name="$PROJECT_DIR$/catalog_items/main_app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/catalog_items/main_app/static/img" />
+      <recent name="$PROJECT_DIR$/catalog_items/static/img" />
+      <recent name="$PROJECT_DIR$/catalog_items/main_app/static" />
+      <recent name="$PROJECT_DIR$/catalog_items/main_app" />
+      <recent name="$PROJECT_DIR$/catalog_items" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="flask run" type="PythonConfigurationType" factoryName="Python">
+      <module name="catalog_items" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LANG" value="en_US.utf-8" />
+        <env name="LC_ALL" value="en_US.utf-8" />
+        <env name="FLASK_APP" value="run.py" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/bin/flask" />
+      <option name="PARAMETERS" value="run" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b02a8c-7261-404c-81bd-3c15c7027817" name="Default Changelist" comment="" />
+      <created>1546861590857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546861590857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="SonarLint" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4982382" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5017618" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32867134" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49964765" visible="true" weight="0.30843374" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catalog_items/main_app/views.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catalog_items/main_app/views.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catalog_items/main_app/views.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catalog_items/main_app/views.py</url>
+          <line>268</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/catalog_items/main_app/views.py</url>
+          <line>221</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>creator.id</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>login_session['user_id']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>login_session['oauth_state']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>login_session['state']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/catalog_items/main_app/static/js/retina.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="97" lean-forward="true" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/public_itemdetail.html" />
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/public_items.html" />
+    <entry file="file://$PROJECT_DIR$/catalog_items/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/main_app/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/main_app/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6455">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/main_app/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/main_app/static/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/main_app/errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/deletecategory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/deleteitem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/editcategory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/flash.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/models/category.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/werkzeug/serving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="794" selection-start-line="794" selection-end-line="794" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/versions/bd5055d81170_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssl.key">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssl.crt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/database_setup.py" />
+    <entry file="file://$PROJECT_DIR$/catalog_items/errors.py" />
+    <entry file="file://$PROJECT_DIR$/setup.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="274">
+            <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/edititem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" lean-forward="true" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/dominate/tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="165" column="5" lean-forward="true" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/models/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/dao/category_dao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1547025853951" expanded="true" signature="105:106" ph="..." />
+            <marker date="1547025853951" expanded="true" signature="205:206" ph="..." />
+            <marker date="1547025853951" expanded="true" signature="298:344" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="536" column="8" selection-start-line="536" selection-start-column="8" selection-end-line="536" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/itemdetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/models/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/pip/_vendor/distlib/index.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/catalog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/addcategory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="23" column="80" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/additem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/auth/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/dao/item_dao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1547218102425" expanded="true" signature="95:127" ph="..." />
+            <marker date="1547218102425" expanded="true" signature="158:159" ph="..." />
+            <marker date="1547218102425" expanded="true" signature="256:257" ph="..." />
+            <marker date="1547218102425" expanded="true" signature="624:701" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/dao/user_dao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/main_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="224" column="27" selection-start-line="224" selection-start-column="27" selection-end-line="224" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/auth/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog_items/templates/json_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

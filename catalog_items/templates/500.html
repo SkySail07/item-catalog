@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}Internal server error{% endblock %}
+{% include "nav.html" %}
+{% include "flash.html" %}
+
+{% block page_content %}
+<section id="server_error" class="section">
+    <div class="container">
+        <div class="page-header">
+            <h1>Internal Server Error</h1>
+        </div>
+    </div>
+</section>
+{% endblock %}

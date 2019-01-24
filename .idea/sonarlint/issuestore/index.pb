@@ -1,0 +1,83 @@
+
+N
+catalog_items/auth/__init__.py,9/3/93e25a290f6debe7d8f2dbbb14368f7d6146b99e
+R
+"catalog_items/main_app/__init__.py,0/2/02c3bb5ca5ef49fb477611d04648991b10387038
+^
+.catalog_items/main_app/static/js/retina.min.js,5/8/58ae979612fb79f5adba7871779eb7a0f64acbb9
+a
+1catalog_items/main_app/static/js/bootstrap.min.js,2/b/2b52ae6de2921df4ce738777229f50e3ebd676f5
+]
+-catalog_items/main_app/static/css/animate.css,c/2/c2cadc8ee8e15e010b00bb6f0fd09017a2bdfb71
+P
+ catalog_items/main_app/errors.py,5/e/5e8402249106535179a566d102b986be14df2ecb
+P
+ catalog_items/templates/500.html,3/9/3965c20f8dcf11e2ef08a952078108daa4b95e93
+P
+ catalog_items/templates/404.html,8/b/8b848aeacc71dac78103435fb15415c7805dc198
+W
+'catalog_items/templates/categories.html,5/7/5730e82d3e07dbc7fc313f21cc17c67375ae3ff0
+[
++catalog_items/templates/deletecategory.html,1/1/11d057f5cc8b45d5a14e0b1a9da02917bbeaf628
+W
+'catalog_items/templates/deleteitem.html,0/6/06e4e061a467e88367fc5c66094f5042951f599a
+Y
+)catalog_items/templates/editcategory.html,0/c/0c94bce5caae0f23288c578ec2feac37d6528252
+R
+"catalog_items/templates/flash.html,b/d/bdf3ecdcc83432f40736fab81b212cb677601077
+P
+ catalog_items/models/category.py,8/7/87e1ce9c713d34389c91311bb3768e33cfbbc6e0
+T
+$migrations/versions/bd5055d81170_.py,1/e/1eb3dd0f1e394dbc42b2f2fd3fb7041eea414539
+R
+"catalog_items/templates/items.html,3/6/366201914d415b0716730d739a8016694ed8d4bc
+8
+setup.sh,5/9/592a1aae25926e838f4bca2e1c8981f30b077dda
+U
+%catalog_items/templates/edititem.html,5/a/5a3d56804c99309d0b8df80e8a68cf4b407b47ab
+L
+catalog_items/models/item.py,8/2/82248851cc8c5ada189cd24600a8a91120323b6a
+M
+catalog_items/dao/item_dao.py,a/1/a180a7b69894cb092e4c4de33c4d1ac66dadb066
+T
+$catalog_items/templates/additem.html,5/9/5903b8b1ffd6b770eb2a282a58bdca1de80d5046
+X
+(catalog_items/templates/addcategory.html,1/1/112ba064f6d46bdca0bd842bf5b820338bd69a92
+Q
+!catalog_items/dao/category_dao.py,6/7/6789050653d8dc461354bcee277578dba09356e7
+V
+&catalog_items/templates/json_view.html,5/2/52416c0d2b16534cb7fcb450f65c47dbc3739333
+6
+run.py,8/0/806d6ceb4e60342798038124ccf7dc1a423a4433
+T
+$catalog_items/templates/catalog.html,0/a/0aaaa5b93b0ab91d5b266cd4c209c8f08852875f
+W
+'catalog_items/templates/itemdetail.html,e/b/ebf332fa31b349cf82308bdd3445bb8a7382c13f
+L
+catalog_items/models/user.py,f/8/f84d8f614925bfd008a6bf32e4e41d888fd9fe68
+@
+requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
+M
+catalog_items/dao/user_dao.py,0/7/07e92525947fbd3ad6bef3c7ea45804903ebe652
+Q
+!catalog_items/templates/base.html,f/4/f4fe7070d254e2d541a27ef532fe67dbfc01d529
+9
+	config.py,1/a/1a1b9769344cb239f2e540e1e6ee1efa2d3034ea
+K
+catalog_items/auth/views.py,d/e/de9b030c699b3b38eedbb58d0a0808fddf8cc2e7
+R
+"catalog_items/templates/login.html,8/6/86efe983a559802714bd491965d1e2fa76918c0b
+I
+catalog_items/__init__.py,8/5/85ced67246c40105c998b19d571a72d62fa30b67
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+O
+catalog_items/main_app/views.py,b/d/bda6a4313b23221aae2630925f614d94cffa1627
+U
+%catalog_items/static/js/retina.min.js,7/9/79caa169829afa78d53b97b378d73a50ed86daa3
+S
+#catalog_items/static/css/styles.css,5/6/56dedb131d738d7961ce7144e5b1de1430ef4d28
+\
+,catalog_items/main_app/static/css/styles.css,f/f/ff54305609c4475d053d709431d45477206a2df6
+P
+ catalog_items/templates/nav.html,a/4/a4c400df274cf4434e940a2adcfc79e32ca802f3

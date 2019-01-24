@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block page_content %}
+
+<section id="addCategory" class="section">
+    <div class="section-content container padding-1-5">
+        <h1>Add Category</h1>
+
+        <form action="{{url_for('main_app.addCategory')}}" method = "post" class="padding-top-10">
+            <div class="form-group">
+                <label for="name">Category Name:</label>
+                <input type ="text" class="form-control" id="name" maxlength="250" name="name" required="required">
+            </div>
+            <div class="form-group">
+                <button type="submit" id="submit" class="btn btn-primary">Save</button>
+                <a href="{{url_for('main_app.showCatalog')}}">
+                    <button type="button" class="btn btn-danger">Cancel</button>
+                </a>
+            </div>
+        </form>
+    </div>
+</section>
+
+{% endblock %}

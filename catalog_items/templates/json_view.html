@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}JSON Viewer{% endblock %}
+
+{% block page_content %}
+
+<section id="jsonView" class="section">
+    <div class="section-content container padding-1-5">
+        <h1>JSON Viewer</h1>
+
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <ul class="nav navbar-nav navbar-left">
+                    <li><a href="{{url_for('main_app.all_category_items_json')}}" style="color:inherit">All data</a></li>
+                    <li><a href="{{url_for('main_app.categories_json')}}">All categories</a></li>
+                    <li><a href="{{url_for('main_app.items_json')}}">All Items</a></li>
+
+                    <!-- Category drop down-->
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Categories<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                          {% for c in categories %}
+                            <li><a class="dropdown-item" href="{{ url_for('main_app.category_items_json', category_name=c.name) }}">{{ c.name }}</a></li>
+                          {% endfor %}
+                      </ul>
+                    </li>
+
+                    <!-- Item drop down-->
+                    <li class="dropdown">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href="#">Items<span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                          {% for i in items %}
+                            <li><a class="dropdown-item" href="{{ url_for('main_app.item_json', category_id=i.category_id, item_name=i.name) }}">{{ i.name }}</a></li>
+                          {% endfor %}
+                      </ul>
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+    </div>
+    {% if json_data %}
+        <div class="container padding-1-5">
+            <pre id="output">{{ json_data|safe }}</pre>
+        </div>
+    {% endif %}
+</section>
+
+{% endblock %}
